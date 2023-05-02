@@ -18,6 +18,10 @@
 		"svgr": "svgr --icon --replace-attr-values #000=currentColor -d src assets"
 	},
 	"author": "Jorn Boerema",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/JornBoerema/bijvoorbeeldzo-icons.git"
+	},
 	"license": "MIT",
 	"devDependencies": {
 		"@babel/plugin-transform-runtime": "^7.21.4",
