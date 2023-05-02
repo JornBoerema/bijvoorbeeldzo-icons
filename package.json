@@ -1,12 +1,13 @@
 {
 	"name": "@bijvoorbeeldzo/icons",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "All icons used by @bijvoorbeeldzo",
 	"keywords": [
 		"React",
 		"SVG",
 		"Icons"
 	],
+	"main": "dist/index.ems.js",
 	"type": "module",
 	"module": "dist/index.ems.js",
 	"files": [
